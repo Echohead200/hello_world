@@ -1,3 +1,4 @@
 # hello_world
 sample project
-Comp3104 -Devoloper Operation
+Comp3104 -Devoloper Operations
+ 
